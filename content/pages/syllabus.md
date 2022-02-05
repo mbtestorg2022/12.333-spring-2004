@@ -19,11 +19,48 @@ Grading
 
 The assessment will be in three parts (with weight toward final grade):
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework - Five Assignments | 40% |
-| Two Mid-term Quizzes | 20% (10% each) |
-| A Final Exam (Closed book) | 40%  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework - Five Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Mid-term Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+20% (10% each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A Final Exam (Closed book)
+{{< tdclose >}}
+{{< tdopen >}}
+40% 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments are handed out approximately every two weeks and on material covered in the previous 2 weeks.
 
